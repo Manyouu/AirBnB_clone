@@ -158,4 +158,3 @@ class TestAmenity_to_dict(unittest.TestCase):
 
     def test_to_dict_datetime_attributes_are_strs(self):
         am = Amenity()
-
